@@ -52,3 +52,36 @@ A contact page wireframe might include input fields for name, email, and message
 ---
 
 These elements work together to create a solid blueprint for the final design, making sure that usability, clarity, and structure are addressed before visual styling begins.
+## Types of Wireframes
+
+Wireframes can be categorized into two main types: low-fidelity and high-fidelity. Each type serves different purposes and is used at different stages of the design process.
+
+### 1. Low-Fidelity Wireframes
+
+Low-fidelity wireframes are basic, simple representations of a design. They focus on structure, layout, and functionality, without much detail on visual design elements like color, typography, or images. These wireframes are often hand-drawn or created using simple digital tools.
+
+**When to use:**  
+Low-fidelity wireframes are used early in the design process to quickly communicate ideas, structure, and user flow. They are ideal for brainstorming and exploring different layouts without committing to a specific design direction.
+
+**Example:**  
+A low-fidelity wireframe for a website might just include basic shapes for buttons, placeholders for text, and outlines for content areas.
+
+### 2. High-Fidelity Wireframes
+
+High-fidelity wireframes are more detailed, resembling the final design of the interface. They include more defined layout elements, realistic content (such as text, images, and actual interface components), and may incorporate some visual design aspects like colors and fonts.
+
+**When to use:**  
+High-fidelity wireframes are used later in the design process to show a more polished version of the design, ready for user testing or client feedback. They help define precise interactions and provide a clearer picture of the final product.
+
+**Example:**  
+A high-fidelity wireframe for an e-commerce website may include actual product images, styled buttons, and a specific font for headings.
+
+---
+
+## The Type of Wireframe Here
+
+The wireframe we are discussing in this project is a **low-fidelity wireframe**. It is designed to convey the basic structure, layout, and flow of the application or website, focusing on how content and navigation will be organized. 
+
+Since this wireframe is still in the early stages of development, it avoids specific design details like color schemes and typography, ensuring that the primary focus is on the usability and interaction patterns of the interface.
+
+This approach allows us to quickly iterate and refine the structure based on user feedback and testing, without getting bogged down in visual details.
